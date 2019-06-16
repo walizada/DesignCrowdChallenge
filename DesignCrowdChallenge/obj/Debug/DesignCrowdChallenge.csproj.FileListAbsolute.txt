@@ -1,0 +1,7 @@
+F:\Projects\DesignCrowdChallenge\DesignCrowdChallenge\bin\Debug\DesignCrowdChallenge.exe.config
+F:\Projects\DesignCrowdChallenge\DesignCrowdChallenge\bin\Debug\DesignCrowdChallenge.exe
+F:\Projects\DesignCrowdChallenge\DesignCrowdChallenge\bin\Debug\DesignCrowdChallenge.pdb
+F:\Projects\DesignCrowdChallenge\DesignCrowdChallenge\obj\Debug\DesignCrowdChallenge.csprojAssemblyReference.cache
+F:\Projects\DesignCrowdChallenge\DesignCrowdChallenge\obj\Debug\DesignCrowdChallenge.csproj.CoreCompileInputs.cache
+F:\Projects\DesignCrowdChallenge\DesignCrowdChallenge\obj\Debug\DesignCrowdChallenge.exe
+F:\Projects\DesignCrowdChallenge\DesignCrowdChallenge\obj\Debug\DesignCrowdChallenge.pdb

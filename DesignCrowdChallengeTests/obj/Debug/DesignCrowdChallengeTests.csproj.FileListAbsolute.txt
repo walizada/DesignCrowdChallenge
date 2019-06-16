@@ -1,0 +1,17 @@
+F:\Projects\DesignCrowdChallenge\DesignCrowdChallengeTests\bin\Debug\DesignCrowdChallengeTests.dll
+F:\Projects\DesignCrowdChallenge\DesignCrowdChallengeTests\bin\Debug\DesignCrowdChallengeTests.pdb
+F:\Projects\DesignCrowdChallenge\DesignCrowdChallengeTests\bin\Debug\DesignCrowdChallenge.exe
+F:\Projects\DesignCrowdChallenge\DesignCrowdChallengeTests\bin\Debug\nunit.framework.dll
+F:\Projects\DesignCrowdChallenge\DesignCrowdChallengeTests\bin\Debug\DesignCrowdChallenge.pdb
+F:\Projects\DesignCrowdChallenge\DesignCrowdChallengeTests\bin\Debug\DesignCrowdChallenge.exe.config
+F:\Projects\DesignCrowdChallenge\DesignCrowdChallengeTests\bin\Debug\nunit.framework.pdb
+F:\Projects\DesignCrowdChallenge\DesignCrowdChallengeTests\bin\Debug\nunit.framework.xml
+F:\Projects\DesignCrowdChallenge\DesignCrowdChallengeTests\obj\Debug\DesignCrowdChallengeTests.csprojAssemblyReference.cache
+F:\Projects\DesignCrowdChallenge\DesignCrowdChallengeTests\obj\Debug\DesignCrowdChallengeTests.csproj.CoreCompileInputs.cache
+F:\Projects\DesignCrowdChallenge\DesignCrowdChallengeTests\obj\Debug\DesignCrowdChallengeTests.csproj.CopyComplete
+F:\Projects\DesignCrowdChallenge\DesignCrowdChallengeTests\obj\Debug\DesignCrowdChallengeTests.dll
+F:\Projects\DesignCrowdChallenge\DesignCrowdChallengeTests\obj\Debug\DesignCrowdChallengeTests.pdb
+F:\Projects\DesignCrowdChallenge\DesignCrowdChallengeTests\bin\Debug\NUnit3.TestAdapter.dll
+F:\Projects\DesignCrowdChallenge\DesignCrowdChallengeTests\bin\Debug\NUnit3.TestAdapter.pdb
+F:\Projects\DesignCrowdChallenge\DesignCrowdChallengeTests\bin\Debug\nunit.engine.dll
+F:\Projects\DesignCrowdChallenge\DesignCrowdChallengeTests\bin\Debug\nunit.engine.api.dll
