@@ -17,37 +17,7 @@ namespace DesignCrowdChallengeTests
             seedData = new SeedData();
         }
 
-        [Test]
-        public void FirstTestForWeekDaysBetweenTwoDates()
-        {
-            var result = bdc.WeekdaysBetweenTwoDates(new DateTime(2013,10,7), new DateTime(2013,10,9));
 
-            Assert.That(result, Is.EqualTo(1));
-        }
-
-        [Test]
-        public void SecondTestForWeekDaysBetweenTwoDates()
-        {
-            var result = bdc.WeekdaysBetweenTwoDates(new DateTime(2013, 10, 5), new DateTime(2013, 10, 14));
-
-            Assert.That(result, Is.EqualTo(5));
-        }
-
-        [Test]
-        public void ThirdTestForWeekDaysBetweenTwoDates()
-        {
-            var result = bdc.WeekdaysBetweenTwoDates(new DateTime(2013, 10, 7), new DateTime(2014, 1, 1));
-
-            Assert.That(result, Is.EqualTo(61));
-        }
-
-        [Test]
-        public void FourthTestForWeekDaysBetweenTwoDates()
-        {
-            int result = bdc.WeekdaysBetweenTwoDates(new DateTime(2013, 10, 7), new DateTime(2013, 10, 5));
-
-            Assert.That(result, Is.EqualTo(0));
-        }
 
         [Test]
         public void FirstTestForBusinessDaysBetweenTwoDates()

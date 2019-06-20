@@ -1,4 +1,5 @@
 ﻿using System;
+using CounterLogic;
 
 namespace DesignCrowdChallenge
 {
@@ -29,9 +30,11 @@ namespace DesignCrowdChallenge
 
             var businessDays = new BusinessDayCounter();
 
+            WeekdayCounter weekdayCounter = new WeekdayCounter();
+
             Console.Write("The number of weekdays between {0} and {1} is ", 
                 (firstDate.Date).ToString("dd/MM/yyyy"), (secondDate.Date).ToString("dd/MM/yyyy"));
-            Console.WriteLine(businessDays.WeekdaysBetweenTwoDates(firstDate, secondDate));
+            Console.WriteLine(weekdayCounter.WeekdaysBetweenTwoDates(firstDate, secondDate));
 
             Console.Write("The number of business days between {0} and {1} is ",
                 (firstDate.Date).ToString("dd/MM/yyyy"), (secondDate.Date).ToString("dd/MM/yyyy"));

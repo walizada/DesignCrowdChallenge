@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignCrowdChallenge", "Des
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignCrowdChallengeTests", "DesignCrowdChallengeTests\DesignCrowdChallengeTests.csproj", "{59AF22C9-9EF3-4526-839F-34083D4ADDB1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CounterLogic", "CounterLogic\CounterLogic.csproj", "{11E4F104-3CE0-4E39-80A6-B24C1D55DE8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CounterLogic.Tests", "CounterLogic.Tests\CounterLogic.Tests.csproj", "{545C2C5B-62E8-4EF5-BDF9-2CFAE902AF2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{59AF22C9-9EF3-4526-839F-34083D4ADDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59AF22C9-9EF3-4526-839F-34083D4ADDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59AF22C9-9EF3-4526-839F-34083D4ADDB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11E4F104-3CE0-4E39-80A6-B24C1D55DE8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E4F104-3CE0-4E39-80A6-B24C1D55DE8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E4F104-3CE0-4E39-80A6-B24C1D55DE8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E4F104-3CE0-4E39-80A6-B24C1D55DE8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{545C2C5B-62E8-4EF5-BDF9-2CFAE902AF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545C2C5B-62E8-4EF5-BDF9-2CFAE902AF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545C2C5B-62E8-4EF5-BDF9-2CFAE902AF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545C2C5B-62E8-4EF5-BDF9-2CFAE902AF2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
