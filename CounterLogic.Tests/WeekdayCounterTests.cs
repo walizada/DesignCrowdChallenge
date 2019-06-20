@@ -12,6 +12,12 @@ namespace CounterLogic.Tests
     {
         private WeekdayCounter _sut;
 
+        [SetUp]
+        public void SetUp()
+        {
+            _sut = new WeekdayCounter();
+        }
+
         [Test]
         public void FirstTestForWeekDaysBetweenTwoDates()
         {
